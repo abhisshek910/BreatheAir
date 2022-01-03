@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BreatheAir</string>
+    <string name="myair">BreatheAir</string>
+    <string name="title">Good Air Quality = Healthy Life</string>
+    <string name="todo">TODO</string>
+
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Do Rate Us And Please Provide us With Your Feedback</string>
+    <string name="copyright">All Rights are <br />Reserved @sunshake media ltd.</string>
+    <string name="no2">NO<sub>2</sub></string>
+    <string name="o3">0<sub>3</sub></string>
+    <string name="s02">S0<sub>2</sub></string>
+    <string name="nh3">NH<sub>3</sub></string>
+    <string name="vall">*All the values are in μg/m<sup>3</sup></string>
+</resources>
